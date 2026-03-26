@@ -46,11 +46,13 @@
 A full-stack real-time chat application with group messaging and status tracking.
 - **Tech:** ExpressJS, ReactJS, Socket.IO, Tailwind CSS, Zustand, Mongoose.
 
-### 🎮 [WarCup](https://github.com/leminhthe04/Specialized-Project-server) *(Jul - Aug 2025)*
+### 🎮 [WarCup](https://github.com/leminhthe04/WarCup-game-server) *(Jul - Aug 2025)*
 Backend services for a real-time multiplayer MOBA game handling concurrent connections.
 - **Tech:** Java Spring Boot, Netty, MongoDB, Redis, Docker.
 
 ### 🛍️ [Harmonie](https://github.com/Phuccancode/Software-engineering-oriented-project) *(Nov - Dec 2024)*
+
+
 E-commerce platform backend implementing core business logic for products and orders.
 - **Tech:** Java Spring Boot, Hibernate, MySQL.
 
