@@ -6,7 +6,7 @@
   
   Actively seeking opportunities to apply my full-stack knowledge to real-world problems.
   
-  [![Email](https://img.shields.io/badge/Email-the.leminh04%40hcmut.edu.vn-red?style=flat-square&logo=gmail)](mailto:the.leminh04@hcmut.edu.vn)
+  [![Email](https://img.shields.io/badge/Email-leminhthe04%40gmail.com-red?style=flat-square&logo=gmail)](mailto:leminhthe04@gmail.com)
 
 </div>
 
