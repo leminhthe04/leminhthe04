@@ -1,64 +1,69 @@
-# Hi there, I'm Le Minh The 👋
-
+<!-- Header animation inspired by the GitHub profile README community -->
 <div align="center">
-  
-  **Software Developer | Graduate of HCMUT**
-  
-  Actively seeking opportunities to apply my full-stack knowledge to real-world problems.
-  
-  [![Email](https://img.shields.io/badge/Email-leminhthe04%40gmail.com-red?style=flat-square&logo=gmail)](mailto:leminhthe04@gmail.com)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=LE%20MINH%20THE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="LE MINH THE header" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=680&lines=Software+Developer;Backend+%26+Distributed+Systems+Enthusiast;Building+practical%2C+user-focused+products" alt="Typing introduction" />
+  </a>
+
+  <p>
+    <a href="mailto:leminhthe04@gmail.com"><img src="https://img.shields.io/badge/Email-leminhthe04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/leminhthe04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 </div>
 
----
+## 👋 About me
 
-## 🚀 About Me
+I'm **Le Minh The**, a Computer Science graduate from **Ho Chi Minh City University of Technology (HCMUT)** who enjoys turning ideas into reliable, maintainable software.
 
-- 🎓 **Education:** Bachelor's in Computer Science from **Ho Chi Minh City University of Technology (HCMUT)**.
-- 💻 **Focus:** Building scalable Backend systems and responsive Full-stack applications.
-- 🎯 **Goals:** To contribute to reliable software applications and grow within a professional development environment.
+- 🔭 Focused on **backend systems, RESTful APIs, and full-stack applications**
+- 🧩 Interested in **clean architecture, database design, authentication, and distributed systems**
+- 🤝 Looking for opportunities to collaborate on meaningful products and grow with an experienced engineering team
+- ⚡ I use AI tools thoughtfully for planning, coding, testing, and debugging - while keeping engineering decisions human-reviewed
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
-**Languages & Core:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,nodejs,express,nestjs,react,nextjs,spring,postgres,mysql,mongodb,redis,kafka,prisma,docker,git,githubactions,postman&perline=10" alt="Technology icons" />
+  </a>
+</div>
 
-**Technologies:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+## 🚀 Featured projects
 
-**Database & Infrastructure:**
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📂 Featured Projects
-
-### 💬 [My Mess3nger](https://github.com/leminhthe04/my-mess3nger-project) *(Jan 2026)*
-A full-stack real-time chat application with group messaging and status tracking.
-- **Tech:** ExpressJS, ReactJS, Socket.IO, Tailwind CSS, Zustand, Mongoose.
-
-### 🎮 [WarCup](https://github.com/leminhthe04/WarCup-game-server) *(Jul - Aug 2025)*
-Backend services for a real-time multiplayer MOBA game handling concurrent connections.
-- **Tech:** Java Spring Boot, Netty, MongoDB, Redis, Docker.
-
-### 🛍️ [Harmonie](https://github.com/Phuccancode/Software-engineering-oriented-project) *(Nov - Dec 2024)*
-
-E-commerce platform backend implementing core business logic for products and orders.
-- **Tech:** Java Spring Boot, Hibernate, MySQL.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📅 <a href="https://github.com/leminhthe04/courthub">Court Hub</a></h3>
+      <p>Sports court booking platform with court discovery, real-time availability, and simple reservations.</p>
+      <p><b>Stack:</b> Next.js · NestJS · Drizzle · PostgreSQL · TanStack Query · Docker</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/leminhthe04/my-mess3nger-project">My Mess3nger</a></h3>
+      <p>Full-stack real-time chat application with group messaging and user status tracking.</p>
+      <p><b>Stack:</b> Express.js · React · Socket.IO · Tailwind CSS · Zustand · Mongoose</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/leminhthe04/WarCup-game-server">WarCup</a></h3>
+      <p>Backend services for a real-time multiplayer MOBA game, built to handle concurrent connections.</p>
+      <p><b>Stack:</b> Spring Boot · Netty · MongoDB · Redis · Docker</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/Phuccancode/Software-engineering-oriented-project">Harmonie</a></h3>
+      <p>E-commerce backend implementing core product, order, and business workflows.</p>
+      <p><b>Stack:</b> Spring Boot · Hibernate · MySQL</p>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Achievements
 
-- 🥇 **Well-rounded Excellent Student Award** (2022 - 2024)
-- 🏅 **Code Tour HCMC Contest (VNG)** - Honorable Mention in Algorithms (Aug 2023)
+- 🥇 **Well-rounded Excellent Student Award** · 2022–2026
+- 🏅 **Code Tour HCMC Contest (VNG)** · Honorable Mention in Algorithms · Aug 2023
 - 📜 **TOEIC 800**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer" />
+</div>
